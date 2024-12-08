@@ -24,10 +24,10 @@ streamlit run app.py
 ## Images
 ![alt_image](https://github.com/Saimoguloju/Fake-News-Detection-using-NLP/blob/master/image-2.jpg)
 ![alt_image](https://github.com/Saimoguloju/Fake-News-Detection-using-NLP/blob/master/image-1.jpg)
-## ML algorithms
-Random Forest Classifier: The accuracy score is close to 0.9.
-Logistic Regression: The accuracy score is slightly above 0.9.
-Decision Tree Classifier: The accuracy score is around 0.85–0.9.
-Gradient Boosting Classifier: The accuracy score is similar to the Decision Tree Classifier, slightly below 0.9.
+## ML Algorithms Accuracy:
+1. Random Forest Classifier: The accuracy score is close to 0.9.
+2. Logistic Regression: The accuracy score is slightly above 0.9.
+3. Decision Tree Classifier: The accuracy score is around 0.85–0.9.
+4. Gradient Boosting Classifier: The accuracy score is similar to the Decision Tree Classifier, slightly below 0.9.
 
 ![alt_image](https://github.com/Saimoguloju/Fake-News-Detection-using-NLP/blob/master/accuracy%20score.png)
