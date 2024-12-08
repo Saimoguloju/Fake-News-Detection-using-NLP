@@ -30,3 +30,4 @@ Logistic Regression: The accuracy score is slightly above 0.9.
 Decision Tree Classifier: The accuracy score is around 0.85–0.9.
 Gradient Boosting Classifier: The accuracy score is similar to the Decision Tree Classifier, slightly below 0.9.
 
+![alt_image](https://github.com/Saimoguloju/Fake-News-Detection-using-NLP/blob/master/accuracy%20score.png)
