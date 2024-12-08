@@ -17,5 +17,6 @@ pip install -r requirements.txt
 ```
 ## Objective of the project
 The objective of this project is to combat the proliferation of fake news by implementing data-driven strategies for detection. This entails compiling datasets containing various features such as article content, source credibility, publication history, and social media engagement. Through exploratory data analysis (EDA) and feature engineering, we aim to refine data quality and glean insights into the characteristics of fake news. Machine learning models and natural language processing, including classification algorithms, will be developed to accurately identify instances of misinformation. The emphasis lies in interpreting model outputs to understand the underlying factors contributing to the dissemination of fake news, facilitating targeted interventions. Ethical and regulatory considerations will be paramount throughout the project. Project findings will be documented in comprehensive reports for stakeholders, aiming to combat misinformation and promote information integrity through data-driven decision-making.
-## images
+## Images
 ![alt_image](https://github.com/Saimoguloju/Fake-News-Detection-using-NLP/blob/master/image-2.jpg)
+![alt_image](https://github.com/Saimoguloju/Fake-News-Detection-using-NLP/blob/master/image-1.jpg)
